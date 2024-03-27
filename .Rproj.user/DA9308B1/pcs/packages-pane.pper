@@ -1,0 +1,7 @@
+{
+    "installOptions": {
+        "installFromRepository": true,
+        "libraryPath": "/Users/shingo_nitta/Library/CloudStorage/Dropbox/300_Project/work/acceptedmanuscript/2024-JSR/renv/library/R-4.1/x86_64-apple-darwin17.0",
+        "installDependencies": true
+    }
+}
